@@ -1,0 +1,8 @@
+:root {
+    --sp-xs: clamp(0.4rem, 1.5vw, 1rem);
+    --sp-sm: calc(var(--sp-xs) * 1.5 );
+    --sp-md: calc(var(--sp-xs) * 2 );
+    --sp-lg: calc(var(--sp-xs) * 3 );
+    --sp-xl: calc(var(--sp-xs) * 4 );
+    --sp-xxl: calc(var(--sp-xs) * 5 );
+}

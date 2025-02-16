@@ -1,0 +1,26 @@
+{
+    "home": {
+        "url": "/index",
+        "parent": ""
+    },
+    "men": {
+        "url": "/gender",
+        "parent": "/index"
+    },
+    "women": {
+        "url": "/gender",
+        "parent": "/index"
+    },
+    "unisex": {
+        "url": "/gender",
+        "parent": "/index"
+    },
+    "catalog": {
+        "url": "/catalog",
+        "parent": "/gender"
+    },
+    "prduct": {
+        "url": "/product",
+        "parent": "/catalog"
+    }
+}

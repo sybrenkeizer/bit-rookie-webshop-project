@@ -1,0 +1,1277 @@
+{  
+  "women": {  
+    "jackets": [  
+      {  
+        "id": "wj001",  
+        "name": "Classic Denim Trucker",  
+        "brand": "Levi's",  
+        "category": "jackets",
+        "price": 89.99,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-001.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj002",   
+        "name": "Alpine Hooded Softshell",  
+        "brand": "Patagonia",  
+        "category": "jackets",
+        "price": 129.99,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-002.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj003",  
+        "name": "Retro Varsity Bomber",  
+        "brand": "Urban Outfitters",  
+        "category": "jackets",
+        "price": 74.50,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-003.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj004",  
+        "name": "Urban Quilted Winter Parka",  
+        "brand": "Canada Goose",  
+        "category": "jackets",
+        "price": 349.99,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-004.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj005",  
+        "name": "Lightweight Performance Windbreaker",  
+        "brand": "Nike",  
+        "category": "jackets",
+        "price": 59.99,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-005.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj006",  
+        "name": "Vintage Canvas Field Jacket",  
+        "brand": "Carhartt",  
+        "category": "jackets",
+        "price": 89.50,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-006.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj007",  
+        "name": "Sleek Leather Moto Jacket",  
+        "brand": "Ted Baker",  
+        "category": "jackets",
+        "price": 279.99,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-007.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj008",  
+        "name": "Alpine Extreme Puffer Jacket",  
+        "brand": "Mountain Hardwear",  
+        "category": "jackets",
+        "price": 179.99,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-008.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj009",  
+        "name": "Sherpa-Lined Vintage Denim Jacket",  
+        "brand": "Wrangler",  
+        "category": "jackets",
+        "price": 99.50,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-009.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wj010",  
+        "name": "Soft Corduroy Trucker Jacket",  
+        "brand": "J.Crew",  
+        "category": "jackets",
+        "price": 108.00,  
+        "image": "../assets/img/gender/women/categories/jackets/img-women-jacket-010.jpg",
+        "quantity": 10
+      }  
+    ],  
+    "sweaters": [  
+      {  
+        "id": "ws001",  
+        "name": "Cozy Merino Wool Knit Sweater",  
+        "brand": "Woolrich",  
+        "category": "sweaters",
+        "price": 129.99,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-001.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "ws002",  
+        "name": "Oversized Cable Knit Pullover",  
+        "brand": "Ralph Lauren",  
+        "category": "sweaters",
+        "price": 159.50,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-002.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "ws003",  
+        "name": "Lightweight Cashmere Cardigan",  
+        "brand": "Everlane",  
+        "category": "sweaters",
+        "price": 188.00,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-003.jpg",
+        "quantity": 10 
+      },  
+      {  
+        "id": "ws004",  
+        "name": "Ribbed Turtleneck Sweater",  
+        "brand": "& Other Stories",  
+        "category": "sweaters",
+        "price": 89.99,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-004.jpg",
+        "quantity": 10 
+      },  
+      {  
+        "id": "ws005",  
+        "name": "Slouchy Alpaca Blend Sweater",  
+        "brand": "Madewell",  
+        "category": "sweaters",
+        "price": 118.50,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-005.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "ws006",  
+        "name": "Vintage Fair Isle Knit",  
+        "brand": "Anthropologie",  
+        "category": "sweaters",
+        "price": 138.00,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-006.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "ws007",  
+        "name": "Cropped Mohair Sweater",  
+        "brand": "Zara",  
+        "category": "sweaters",
+        "price": 79.90,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-007.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "ws008",  
+        "name": "Performance Thermal Sweater",  
+        "brand": "Smartwool",  
+        "category": "sweaters",
+        "price": 104.99,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-008.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "ws009",  
+        "name": "Minimalist Crew Neck Sweater",  
+        "brand": "COS",  
+        "category": "sweaters",
+        "price": 95.00,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-009.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "ws010",  
+        "name": "Color Block Knit Pullover",  
+        "brand": "Free People",  
+        "category": "sweaters",
+        "price": 128.50,  
+        "image": "../assets/img/gender/women/categories/sweaters/img-women-sweater-010.jpg",
+        "quantity": 10
+      }  
+    ],
+    "pants": [  
+      {  
+        "id": "wp001",  
+        "name": "High-Waisted Straight Leg Denim",  
+        "brand": "Madewell",  
+        "category": "pants",
+        "price": 98.50,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp002",  
+        "name": "Cargo Utility Pants",  
+        "brand": "Dickies",  
+        "category": "pants",
+        "price": 79.99,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp003",  
+        "name": "Slim Fit Chino Trousers",  
+        "brand": "Banana Republic",  
+        "category": "pants",
+        "price": 89.00,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp004",  
+        "name": "Wide-Leg Linen Blend Pants",  
+        "brand": "Everlane",  
+        "category": "pants",
+        "price": 118.00,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp005",  
+        "name": "Athletic Jogger Pants",  
+        "brand": "Lululemon",  
+        "category": "pants",
+        "price": 128.00,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp006",  
+        "name": "Vintage Inspired Corduroy Pants",  
+        "brand": "Urban Outfitters",  
+        "category": "pants",
+        "price": 89.50,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp007",  
+        "name": "Leather Skinny Pants",  
+        "brand": "AllSaints",  
+        "category": "pants",
+        "price": 249.00,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp008",  
+        "name": "Relaxed Carpenter Jeans",  
+        "brand": "Carhartt",  
+        "category": "pants",
+        "price": 99.99,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp009",  
+        "name": "Tailored Wool Blend Trousers",  
+        "brand": "Theory",  
+        "category": "pants",
+        "price": 279.00,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wp010",  
+        "name": "Lightweight Hiking Pants",  
+        "brand": "Patagonia",  
+        "category": "pants",
+        "price": 89.00,  
+        "image": "../assets/img/gender/women/categories/pants/img-women-pant-010.jpg",
+        "quantity": 10  
+      }  
+    ],  
+    "shirts": [  
+      {  
+        "id": "wh001",  
+        "name": "Classic White Button-Down",  
+        "brand": "Equipment",  
+        "category": "shirts",
+        "price": 129.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-001.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wh002",  
+        "name": "Oversized Chambray Shirt",  
+        "brand": "Rails",  
+        "category": "shirts",
+        "price": 158.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wh003",  
+        "name": "Silk Satin Blouse",  
+        "brand": "Vince",  
+        "category": "shirts",
+        "price": 195.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wh004",  
+        "name": "Striped Relaxed Fit Shirt",  
+        "brand": "COS",  
+        "category": "shirts",
+        "price": 85.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wh005",  
+        "name": "Linen Resort Shirt",  
+        "brand": "Everlane",  
+        "category": "shirts",
+        "price": 78.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wh006",  
+        "name": "Vintage Graphic Band Tee",  
+        "brand": "Madeworn",  
+        "category": "shirts",
+        "price": 95.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wh007",  
+        "name": "Crisp Poplin Shirt",  
+        "brand": "Uniqlo",  
+        "category": "shirts",
+        "price": 49.90,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wh008",  
+        "name": "Flannel Plaid Overshirt",  
+        "brand": "Woolrich",  
+        "category": "shirts",
+        "price": 129.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wh009",  
+        "name": "Cropped Denim Shirt",  
+        "brand": "Madewell",  
+        "category": "shirts",
+        "price": 88.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wh010",  
+        "name": "Bohemian Print Blouse",  
+        "brand": "Free People",  
+        "category": "shirts",
+        "price": 108.00,  
+        "image": "../assets/img/gender/women/categories/shirts/img-women-shirt-010.jpg",
+        "quantity": 10  
+      }  
+    ],  
+    "accessories": [  
+      {  
+        "id": "wa001",  
+        "name": "Leather Crossbody Bag",  
+        "brand": "Marc Jacobs",  
+        "category": "accessories",
+        "price": 298.00,  
+        "image": "../assets/img/gender/women/categories/accessories/img-women-accessories-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wa002",  
+        "name": "Oversized Wool Scarf",  
+        "brand": "Acne Studios",  
+        "category": "accessories",
+        "price": 250.00,  
+        "image": "../assets/img/gender/women/categories/accessories/img-women-accessories-003.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wa003",  
+        "name": "Minimalist Leather Belt",  
+        "brand": "Cuyana",  
+        "category": "accessories",
+        "price": 88.00,  
+        "image": "../assets/img/gender/women/categories/accessories/img-women-accessories-004.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wa004",  
+        "name": "Classic Leather Tote",  
+        "brand": "Madewell",  
+        "category": "accessories",
+        "price": 168.00,  
+        "image": "../assets/img/gender/women/categories/accessories/img-women-accessories-005.jpg",
+        "quantity": 10
+      },  
+      {  
+        "id": "wa005",  
+        "name": "Statement Chunky Necklace",  
+        "brand": "Anthropologie",  
+        "category": "accessories",
+        "price": 78.00,  
+        "image": "../assets/img/gender/women/categories/accessories/img-women-accessories-006.jpg",
+        "quantity": 10
+      }  
+    ],
+    "collection": [  
+      {  
+        "id": "wc001",  
+        "name": "Elevated Essentials Collection",  
+        "brand": "Everlane",  
+        "category": "collection",
+        "price": 345.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc002",  
+        "name": "Cozy Outdoor Capsule",  
+        "brand": "Patagonia",  
+        "category": "collection",
+        "price": 599.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc003",  
+        "name": "Minimalist Wardrobe",  
+        "brand": "COS",  
+        "category": "collection",
+        "price": 395.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc004",  
+        "name": "Sustainable Staples Set",  
+        "brand": "Tentree",  
+        "category": "collection",
+        "price": 295.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc005",  
+        "name": "Elevated Streetwear Collection",  
+        "brand": "Acne Studios",  
+        "category": "collection",
+        "price": 895.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc006",  
+        "name": "Vintage-Inspired Capsule",  
+        "brand": "Urban Outfitters",  
+        "category": "collection",
+        "price": 249.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc007",  
+        "name": "Everyday Essentials Bundle",  
+        "brand": "Uniqlo",  
+        "category": "collection",
+        "price": 149.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc008",  
+        "name": "Modern Classic Collection",  
+        "brand": "& Other Stories",  
+        "category": "collection",
+        "price": 495.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc009",  
+        "name": "Versatile Workwear Collection",  
+        "brand": "Dickies",  
+        "category": "collection",
+        "price": 399.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "wc010",  
+        "name": "Outdoor Adventure Set",  
+        "brand": "Outdoor Voices",  
+        "category": "collection",
+        "price": 599.00,  
+        "image": "../assets/img/gender/women/categories/collection/img-women-collection-010.jpg",
+        "quantity": 10  
+      }  
+    ]
+  },
+  "men": {  
+    "jackets": [  
+      {  
+        "id": "mj001",  
+        "name": "Rugged Leather Bomber",  
+        "brand": "Belstaff",  
+        "category": "jackets",
+        "price": 399.99,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mj002",  
+        "name": "Lightweight Packable Windbreaker",  
+        "brand": "The North Face",  
+        "category": "jackets",
+        "price": 79.99,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mj003",  
+        "name": "Classic Collegiate Varsity Jacket",  
+        "brand": "Adidas",  
+        "category": "jackets",
+        "price": 99.50,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mj004",  
+        "name": "Insulated Down Parka",  
+        "brand": "Moncler",  
+        "category": "jackets",
+        "price": 799.99,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-004.jpg",
+        "quantity": 10 
+      },  
+      {  
+        "id": "mj005",  
+        "name": "Breathable Performance Softshell",  
+        "brand": "Arc'teryx",  
+        "category": "jackets",
+        "price": 249.99,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mj006",  
+        "name": "Vintage Denim Chore Jacket",  
+        "brand": "A.P.C.",  
+        "category": "jackets",
+        "price": 180.00,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mj007",  
+        "name": "Lightweight Nylon Windrunner",  
+        "brand": "Nike",  
+        "category": "jackets",
+        "price": 90.00,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mj008",  
+        "name": "Weatherproof Tweed Field Jacket",  
+        "brand": "Barbour",  
+        "category": "jackets",
+        "price": 329.99,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mj009",  
+        "name": "Insulated Down-Filled Puffer Coat",  
+        "brand": "Canada Goose",  
+        "category": "jackets",
+        "price": 649.99,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mj010",  
+        "name": "Vintage-Inspired Corduroy Trucker",  
+        "brand": "Levi's",  
+        "category": "jackets",
+        "price": 99.50,  
+        "image": "../assets/img/gender/men/categories/jackets/img-men-jacket-010.jpg",
+        "quantity": 10  
+      }  
+    ],  
+    "sweaters": [  
+      {  
+        "id": "ms001",  
+        "name": "Merino Wool Crew Neck Sweater",  
+        "brand": "Everlane",  
+        "category": "sweaters",
+        "price": 98.00,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms002",  
+        "name": "Cashmere V-Neck Pullover",  
+        "brand": "Loro Piana",  
+        "category": "sweaters",
+        "price": 1499.99,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms003",  
+        "name": "Lightweight Cotton Cardigan",  
+        "brand": "J.Crew",  
+        "category": "sweaters",
+        "price": 79.50,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms004",  
+        "name": "Shawl-Collar Sweater Jacket",  
+        "brand": "Banana Republic",  
+        "category": "sweaters",
+        "price": 89.99,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms005",  
+        "name": "Mock Neck Wool-Blend Pullover",  
+        "brand": "Uniqlo",  
+        "category": "sweaters",
+        "price": 49.90,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms006",  
+        "name": "Ribbed Turtleneck Sweater",  
+        "brand": "H&M",  
+        "category": "sweaters",
+        "price": 39.99,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms007",  
+        "name": "Striped Crewneck Sweater",  
+        "brand": "Gap",  
+        "category": "sweaters",
+        "price": 59.95,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms008",  
+        "name": "Recycled Cashmere Blend Cardigan",  
+        "brand": "Mango",  
+        "category": "sweaters",
+        "price": 89.99,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms009",  
+        "name": "Cable-Knit Alpaca Blend Sweater",  
+        "brand": "Howlin'",  
+        "category": "sweaters",
+        "price": 199.00,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms010",  
+        "name": "Pima Cotton V-Neck Sweater",  
+        "brand": "Sunspel",  
+        "category": "sweaters",
+        "price": 175.00,  
+        "image": "../assets/img/gender/men/categories/sweaters/img-men-sweater-010.jpg",
+        "quantity": 10  
+      }  
+    ],  
+    "pants": [  
+      {  
+        "id": "mp001",  
+        "name": "Slim-Fit Chino Pants",  
+        "brand": "J.Crew",  
+        "category": "pants",
+        "price": 79.50,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp002",  
+        "name": "Relaxed-Fit Cargo Pants",  
+        "brand": "Banana Republic",  
+        "category": "pants",
+        "price": 89.99,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp003",  
+        "name": "Tailored Wool Trousers",  
+        "brand": "Suitsupply",  
+        "category": "pants",
+        "price": 249.00,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp004",  
+        "name": "Relaxed Linen-Blend Pants",  
+        "brand": "Todd Snyder",  
+        "category": "pants",
+        "price": 128.00,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp005",  
+        "name": "Stretch Twill Slim Fit Chinos",  
+        "brand": "Dockers",  
+        "category": "pants",
+        "price": 59.99,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp006",  
+        "name": "Corduroy Five-Pocket Pants",  
+        "brand": "Gap",  
+        "category": "pants",
+        "price": 69.95,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp007",  
+        "name": "Stretch Slim-Fit Khakis",  
+        "brand": "Bonobos",  
+        "category": "pants",
+        "price": 98.00,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp008",  
+        "name": "Straight-Leg Selvedge Denim",  
+        "brand": "Naked & Famous",  
+        "category": "pants",
+        "price": 148.00,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp009",  
+        "name": "Classic Wool Flannel Pants",  
+        "brand": "Polo Ralph Lauren",  
+        "category": "pants",
+        "price": 169.99,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mp010",  
+        "name": "Outdoor Performance Pants",  
+        "brand": "Patagonia",  
+        "category": "pants",
+        "price": 99.00,  
+        "image": "../assets/img/gender/men/categories/pants/img-men-pant-010.jpg",
+        "quantity": 10  
+      }  
+    ],
+    "shirts": [  
+      {  
+        "id": "ms001",  
+        "name": "Oxford Button-Down Shirt",  
+        "brand": "Brooks Brothers",  
+        "category": "shirts",
+        "price": 89.50,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms002",  
+        "name": "Slim Fit Dress Shirt",  
+        "brand": "Charles Tyrwhitt",  
+        "category": "shirts",
+        "price": 49.99,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms003",  
+        "name": "Flannel Workshirt",  
+        "brand": "Carhartt",  
+        "category": "shirts",
+        "price": 59.99,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms004",  
+        "name": "Linen Camp Collar Shirt",  
+        "brand": "Battenwear",  
+        "category": "shirts",
+        "price": 148.00,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms005",  
+        "name": "Striped Button-Down Shirt",  
+        "brand": "Bonobos",  
+        "category": "shirts",
+        "price": 79.00,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms006",  
+        "name": "Lightweight Poplin Shirt",  
+        "brand": "Uniqlo",  
+        "category": "shirts",
+        "price": 29.90,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms007",  
+        "name": "Textured Dress Shirt",  
+        "brand": "Suitsupply",  
+        "category": "shirts",
+        "price": 99.00,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms008",  
+        "name": "Plaid Flannel Shirt",  
+        "brand": "Pendleton",  
+        "category": "shirts",
+        "price": 99.99,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms009",  
+        "name": "Denim Work Shirt",  
+        "brand": "Levi's",  
+        "category": "shirts",
+        "price": 69.50,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ms010",  
+        "name": "Slim Fit Oxford Shirt",  
+        "brand": "J.Crew",  
+        "category": "shirts",
+        "price": 59.50,  
+        "image": "../assets/img/gender/men/categories/shirts/img-men-shirt-010.jpg",
+        "quantity": 10  
+      }  
+    ],  
+    "accessories": [  
+      {  
+        "id": "ma001",  
+        "name": "Wool Felt Hat",  
+        "brand": "Goorin Bros.",  
+        "category": "accessories",
+        "price": 59.99,  
+        "image": "../assets/img/gender/men/categories/accessories/img-men-accessories-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ma002",  
+        "name": "Leather Belt",  
+        "brand": "Allen Edmonds",  
+        "category": "accessories",
+        "price": 79.00,  
+        "image": "../assets/img/gender/men/categories/accessories/img-men-accessories-002.jpg",
+        "quantity": 10 
+      },  
+      {  
+        "id": "ma003",  
+        "name": "Cashmere Scarf",  
+        "brand": "Acne Studios",  
+        "category": "accessories",
+        "price": 190.00,  
+        "image": "../assets/img/gender/men/categories/accessories/img-men-accessories-003.jpg",
+        "quantity": 10  
+      },
+      {  
+        "id": "ma001",  
+        "name": "Leather Briefcase",  
+        "brand": "Fossil",  
+        "category": "accessories",
+        "price": 179.99,  
+        "image": "../assets/img/gender/men/categories/accessories/img-men-accessories-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ma002",  
+        "name": "Wool Felt Fedora Hat",  
+        "brand": "Borsalino",  
+        "category": "accessories",
+        "price": 249.99,  
+        "image": "../assets/img/gender/men/categories/accessories/img-men-accessories-005.jpg",
+        "quantity": 10  
+      } 
+    ],
+    "collection": [  
+      {  
+        "id": "mc001",  
+        "name": "Modern Workwear Collection",  
+        "brand": "Dickies",  
+        "category": "collection",
+        "price": 399.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc002",  
+        "name": "Refined Essentials Set",  
+        "brand": "Everlane",  
+        "category": "collection",
+        "price": 295.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc003",  
+        "name": "Outdoor Adventure Pack",  
+        "brand": "Patagonia",  
+        "category": "collection",
+        "price": 649.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc004",  
+        "name": "Elevated Streetwear Set",  
+        "brand": "Acne Studios",  
+        "category": "collection",
+        "price": 995.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc005",  
+        "name": "Sustainable Basics Bundle",  
+        "brand": "Tentree",  
+        "category": "collection",
+        "price": 275.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc006",  
+        "name": "Timeless Essentials Collection",  
+        "brand": "COS",  
+        "category": "collection",
+        "price": 445.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc007",  
+        "name": "Vintage-Inspired Capsule",  
+        "brand": "Urban Outfitters",  
+        "category": "collection",
+        "price": 299.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc008",  
+        "name": "Everyday Essentials Kit",  
+        "brand": "Uniqlo",  
+        "category": "collection",
+        "price": 179.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc009",  
+        "name": "Modern Classics Collection",  
+        "brand": "& Other Stories",  
+        "category": "collection",
+        "price": 545.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "mc010",  
+        "name": "Performance Outdoor Set",  
+        "brand": "Outdoor Voices",  
+        "category": "collection",
+        "price": 649.00,  
+        "image": "../assets/img/gender/men/categories/collection/img-men-collection-010.jpg",
+        "quantity": 10  
+      }  
+    ]
+  },
+  "unisex": {
+    "jackets": [  
+      {  
+        "id": "uj001",  
+        "name": "Recycled Nylon Puffer Jacket",  
+        "brand": "Patagonia",  
+        "category": "jackets",
+        "price": 199.00,  
+        "image": "../assets/img/gender/unisex/categories/jackets/img-unisex-jacket-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uj002",  
+        "name": "Lightweight Windbreaker",  
+        "brand": "The North Face",  
+        "category": "jackets",
+        "price": 99.00,  
+        "image": "../assets/img/gender/unisex/categories/jackets/img-unisex-jacket-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uj003",  
+        "name": "Organic Cotton Denim Jacket",  
+        "brand": "Nudie Jeans",  
+        "category": "jackets",
+        "price": 149.00,  
+        "image": "../assets/img/gender/unisex/categories/jackets/img-unisex-jacket-003.jpg",
+        "quantity": 10  
+      }  
+    ],  
+    "sweaters": [  
+      {  
+        "id": "us001",  
+        "name": "Oversized Organic Cotton Sweater",  
+        "brand": "Everlane",  
+        "category": "jackets",
+        "price": 88.00,  
+        "image": "../assets/img/gender/unisex/categories/sweaters/img-unisex-sweater-001.jpg",
+        "quantity": 10  
+      },
+      {  
+        "id": "us002",  
+        "name": "Recycled Wool Blend Pullover",  
+        "brand": "Patagonia",  
+        "category": "jackets",
+        "price": 129.00,  
+        "image": "../assets/img/gender/unisex/categories/sweaters/img-unisex-sweater-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "us003",  
+        "name": "Minimalist Knit Sweater",  
+        "brand": "COS",  
+        "category": "jackets",
+        "price": 99.00,  
+        "image": "../assets/img/gender/unisex/categories/sweaters/img-unisex-sweater-003.jpg",
+        "quantity": 10  
+      }
+    ],  
+    "pants": [  
+      {  
+        "id": "up001",  
+        "name": "Wide-Leg Utility Pants",  
+        "brand": "Dickies",  
+        "category": "pants",
+        "price": 69.99,  
+        "image": "../assets/img/gender/unisex/categories/pants/img-unisex-pant-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "up002",  
+        "name": "Relaxed Canvas Work Pants",  
+        "brand": "Carhartt",  
+        "category": "pants",
+        "price": 74.99,  
+        "image": "../assets/img/gender/unisex/categories/pants/img-unisex-pant-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "up003",  
+        "name": "Sustainable Chino Pants",  
+        "brand": "Everlane",  
+        "category": "pants",
+        "price": 68.00,  
+        "image": "../assets/img/gender/unisex/categories/pants/img-unisex-pant-003.jpg",
+        "quantity": 10  
+      } 
+    ],  
+    "shirts": [  
+      {  
+        "id": "ush001",  
+        "name": "Heavyweight Cotton Tee",  
+        "brand": "Uniqlo",  
+        "category": "shirts",
+        "price": 14.90,  
+        "image": "../assets/img/gender/unisex/categories/shirts/img-unisex-shirt-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ush002",  
+        "name": "Oversized Organic Cotton Shirt",  
+        "brand": "Everlane",  
+        "category": "shirts",
+        "price": 58.00,  
+        "image": "../assets/img/gender/unisex/categories/shirts/img-unisex-shirt-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ush003",  
+        "name": "Relaxed Linen Button-Up",  
+        "brand": "COS",  
+        "category": "shirts",
+        "price": 89.00,  
+        "image": "../assets/img/gender/unisex/categories/shirts/img-unisex-shirt-003.jpg",
+        "quantity": 10  
+      }
+    ],  
+    "accessories": [  
+      {  
+        "id": "ua001",  
+        "name": "Recycled Polyester Backpack",  
+        "brand": "Patagonia",  
+        "category": "accessories",
+        "price": 89.00,  
+        "image": "../assets/img/gender/unisex/categories/accessories/img-unisex-accessories-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ua002",  
+        "name": "Wool Felt Bucket Hat",  
+        "brand": "Cos",  
+        "category": "accessories",
+        "price": 59.00,  
+        "image": "../assets/img/gender/unisex/categories/accessories/img-unisex-accessories-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ua003",  
+        "name": "Organic Cotton Baseball Cap",  
+        "brand": "Patagonia",  
+        "category": "accessories",
+        "price": 35.00,  
+        "image": "../assets/img/gender/unisex/categories/accessories/img-unisex-accessories-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "ua004",  
+        "name": "Sustainable Crossbody Bag",  
+        "brand": "Everlane",  
+        "category": "accessories",
+        "price": 95.00,  
+        "image": "../assets/img/gender/unisex/categories/accessories/img-unisex-accessories-004.jpg",
+        "quantity": 10  
+      },  
+      {
+        "id": "ua005",  
+        "name": "Minimalist Leather Wallet",  
+        "brand": "Bellroy",  
+        "category": "accessories",
+        "price": 79.00,  
+        "image": "../assets/img/gender/unisex/categories/accessories/img-unisex-accessories-005.jpg",
+        "quantity": 10
+      }
+    ],
+    "collection": [  
+      {  
+        "id": "uc001",  
+        "name": "Minimalist Essentials Collection",  
+        "brand": "COS",  
+        "category": "collection",
+        "price": 395.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-001.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc002",  
+        "name": "Outdoor Adventure Collection",  
+        "brand": "Patagonia",  
+        "category": "collection",
+        "price": 699.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-002.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc003",  
+        "name": "Sustainable Basics Collection",  
+        "brand": "Everlane",  
+        "category": "collection",
+        "price": 245.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-003.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc004",  
+        "name": "Versatile Workwear Collection",  
+        "brand": "Dickies",  
+        "category": "collection",
+        "price": 399.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-004.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc005",  
+        "name": "Elevated Streetwear Collection",  
+        "brand": "Acne Studios",  
+        "category": "collection",
+        "price": 895.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-005.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc006",  
+        "name": "Vintage-Inspired Capsule",  
+        "brand": "Urban Outfitters",  
+        "category": "collection",
+        "price": 249.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-006.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc007",  
+        "name": "Eco-Friendly Essentials",  
+        "brand": "Tentree",  
+        "category": "collection",
+        "price": 325.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-007.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc008",  
+        "name": "Modern Classic Collection",  
+        "brand": "& Other Stories",  
+        "category": "collection",
+        "price": 495.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-008.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc009",  
+        "name": "Everyday Essentials Set",  
+        "brand": "Uniqlo",  
+        "category": "collection",
+        "price": 149.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-009.jpg",
+        "quantity": 10  
+      },  
+      {  
+        "id": "uc010",  
+        "name": "Outdoor Lifestyle Collection",  
+        "brand": "Outdoor Voices",  
+        "category": "collection",
+        "price": 599.00,  
+        "image": "../assets/img/gender/unisex/categories/collection/img-unisex-collection-010.jpg",
+        "quantity": 10  
+      }  
+    ]
+  }
+}

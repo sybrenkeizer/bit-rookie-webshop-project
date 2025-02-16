@@ -1,0 +1,25 @@
+{
+  "name": "the-webshop-18c967ec0c07-dd3cc2fac30e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.nexed.com:01919ca3-536f-753f-9f62-96f2a8bd4968/01902a2a-f3c1-7d7e-8b47-077f18125e8c/The-Webshop-18c967ec0c07-dd3cc2fac30e.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "eslint": "^8.57.1",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.6.0",
+    "globals": "^15.14.0"
+  }
+}

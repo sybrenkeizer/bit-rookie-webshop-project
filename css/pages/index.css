@@ -1,0 +1,103 @@
+.container {
+    height: 100vh;
+    background-image: linear-gradient(-50deg, var(--clr-pri-light) 0%, var(--clr-pri-accent) 100%);
+}
+
+.main-header {
+    display: flex;
+    justify-content: center;
+}
+
+.cube-container {
+    position: relative;
+    width: 100vw;
+    max-width: 60rem;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .cube {
+        position: absolute;
+        width: clamp(5rem, 50vw, 30rem);
+        filter: drop-shadow(2px 2px 4px var(--clr-pri-dark));
+        text-shadow: var(--ts-primary-dark);
+        cursor: pointer;
+    }
+    
+    .cube.women {
+        top: min(40vw, 18rem);
+        left: min(47vw, 32rem);
+        transform: translate(-50%, -50%);
+    }
+    
+    .cube.men {
+        top: min(73.5vw, 37.5rem);
+        left: min(28vw, 20rem);
+        transform: translate(-50%, -50%);
+    }
+    
+    .cube.unisex {
+        width: clamp(4rem, 40vw, 24rem);
+        top: min(66.5vw, 33.8rem);
+        left: min(68vw, 44.6rem);
+        transform: translate(-50%, -50%);
+    }
+
+    .img-container {
+        position: relative;
+        clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+        cursor: pointer;
+        pointer-events: none;
+        
+        img {
+            width: 100%;
+            pointer-events: none;
+        }
+    
+        span {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: var(--clr-pri-light);
+            font-size: var(--fs-h3);
+            font-family: var(--ff-primary);
+            z-index: 99;
+        }
+    
+        .img-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 100%;
+            background-image: linear-gradient(to top,rgba(0,0,0,0.3),rgba(0,0,0,0));
+            transition: opacity 0.2s ease-in-out;
+            pointer-events: none;
+
+            &:hover {
+                opacity: 0.5;
+            }
+        }
+    }
+}
+
+.main-footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    
+    section.footer-extended {
+        display: none !important;
+    }
+
+    section.footer-minimal {
+        background-color: transparent;
+        color: var(--clr-pri-dark);
+    }
+}
+
+
+

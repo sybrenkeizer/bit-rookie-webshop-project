@@ -1,0 +1,24 @@
+:root {
+    /* Font Family */
+    --ff-primary: "Advent Pro";
+    --ff-secondary: "Bodoni Moda", "Times New Roman", "Sans Serif";
+    
+    /* Font size */
+    --fs-h1: clamp(2.1rem, 3.6vw, 2.5rem);
+    --fs-h2: clamp(1.8rem, 3.4vw, 2.2rem);
+    --fs-h3: clamp(1.55rem, 3.5vw, 1.8rem);
+    --fs-h4: clamp(1.35rem, 3.2vw, 1.6rem);
+    --fs-h5: clamp(1.2rem, 2.5vw, 1.4rem);
+    --fs-h6: clamp(1.1rem, 2.1vw, 1.25rem);
+    --fs-p1: clamp(1rem, 2vw, 1.1rem);;
+    --fs-p2: clamp(0.9rem, 1.6vw, 1rem);
+    --fs-p3: clamp(0.7rem, 1.1vw, 0.8rem);
+
+    /* Text shadow */
+    --ts-primary-dark: 
+        1px 1px 1px var(--clr-pri-dark),
+        1px 1px 1px var(--clr-pri-dark),
+        1px 1px 1px var(--clr-pri-dark),
+        1px 1px 1px var(--clr-pri-dark),
+        1px 1px 1px var(--clr-pri-dark); 
+}

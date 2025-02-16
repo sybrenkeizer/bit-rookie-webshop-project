@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>ZORAH - ADMIN DASHBOARD</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../css/main.css">
+        <link rel="stylesheet" href="../css/pages/dashboard.css">
+        <script type="module" src="../js/main.js"></script>
+        <script type="module" src="../js/views/dashboardView.js"></script>
+    </head>
+    <body>
+        <header class="main-header-db">
+            <button data-btn="log-out" class="logout-btn">
+                <svg fill="#000000" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 384.971 384.971" xml:space="preserve"><g stroke-width="0"></g><g stroke-linecap="round" stroke-linejoin="round"></g><g > <g> <g id="Sign_Out"> <path d="M180.455,360.91H24.061V24.061h156.394c6.641,0,12.03-5.39,12.03-12.03s-5.39-12.03-12.03-12.03H12.03 C5.39,0.001,0,5.39,0,12.031V372.94c0,6.641,5.39,12.03,12.03,12.03h168.424c6.641,0,12.03-5.39,12.03-12.03 C192.485,366.299,187.095,360.91,180.455,360.91z"></path> <path d="M381.481,184.088l-83.009-84.2c-4.704-4.752-12.319-4.74-17.011,0c-4.704,4.74-4.704,12.439,0,17.179l62.558,63.46H96.279 c-6.641,0-12.03,5.438-12.03,12.151c0,6.713,5.39,12.151,12.03,12.151h247.74l-62.558,63.46c-4.704,4.752-4.704,12.439,0,17.179 c4.704,4.752,12.319,4.752,17.011,0l82.997-84.2C386.113,196.588,386.161,188.756,381.481,184.088z"></path> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> <g> </g> </g> </g></svg>
+                <span>Log out</span>
+            </button>
+        </header>
+        
+        <main>
+    
+            <div class="dashboard-tools">
+
+                <div class="tabs">
+                    <button data-tab="inventory" class="tablink active">Inventory</button>
+                    <button data-tab="orders" class="tablink">Orders</button>
+                </div>
+    
+                <div data-inventory="dashboard-tool-container" class="dashboard-tool-container tab-content active">
+                    <div>
+                        <form class="dashboard-tool-search-form" action="/action_page.php" autocomplete="off">
+                            <div class="form-control">
+                                <input data-input="search-inventory" type="text" id="search-inventory" name="search" placeholder="">
+                                <label data-label="search" for="search-inventory" class="">Search products</label>
+                                <button data-btn="search" type="submit">
+                                    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke-width="0"></g><g stroke-linecap="round" stroke-linejoin="round"></g><g > <path d="M15 15L21 21" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z"  stroke-width="2"></path> </g></svg>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="dashboard-tool-header">
+                        <ul>
+                            <li class="product-id">#</li>
+                            <li class="product-name">Name</li>
+                            <li class="product-brand">Brand</li>
+                            <li class="product-price">Price</li>
+                            <li class="product-quantity">Quantity</li>
+                            <li class="product-category">Category</li>
+                        </ul>
+                    </div>
+                    <div data-inventory="product-list-container" class="dashboard-tool-list-container">
+                        <ul data-inventory="product-list" class="dashboard-tool-list"></ul>
+                        <div class="list-overlay hide"></div>
+                    </div>
+                    <footer data-inventory="footer" class="dashboard-tool-footer">
+                        <div class="displayed-products">
+                            <span class="amount-items">Number of list items could not be loaded</span>
+                        </div>
+                        <div class="footer-buttons">
+                            <button data-btn="reset-product-data">
+                                <span>Reset Data</span>
+                                <svg viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g stroke-width="0"></g><g stroke-linecap="round" stroke-linejoin="round"></g><g > <g fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0 1 1 0 2.5 2.5)"> <path d="m3.98652376 1.07807068c-2.38377179 1.38514556-3.98652376 3.96636605-3.98652376 6.92192932 0 4.418278 3.581722 8 8 8s8-3.581722 8-8-3.581722-8-8-8"></path> <path d="m4 1v4h-4" transform="matrix(1 0 0 -1 0 6)"></path> </g> </g></svg>
+                            </button>
+                            <button data-btn="add-product-modal">
+                                <span>Add Product</span>
+                                <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" fill="white"><g stroke-width="0"></g><g stroke-linecap="round" stroke-linejoin="round"></g><g > <path fill-rule="evenodd" d="M9 17a1 1 0 102 0v-6h6a1 1 0 100-2h-6V3a1 1 0 10-2 0v6H3a1 1 0 000 2h6v6z"></path> </g></svg>
+                            </button>
+                        </div>
+                    </footer>
+                </div>
+    
+                <div data-orders="dashboard-tool-container" class="dashboard-tool-container tab-content">
+                    <div>
+                        <form class="dashboard-tool-search-form" action="/action_page.php" autocomplete="off" method="get">
+                            <div class="form-control">
+                                <input data-input="search-orders" type="text" id="search-order" name="search" placeholder="">
+                                <label data-label="search" for="search-order" class="">Search orders</label>
+                                <button data-btn="search" type="submit">
+                                    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g stroke-width="0"></g><g stroke-linecap="round" stroke-linejoin="round"></g><g > <path d="M15 15L21 21" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z" stroke-width="2"></path> </g></svg>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="dashboard-tool-header">
+                        <ul>
+                            <li class="order-id">#</li>
+                            <li class="customer-name">Customer Name</li>
+                            <li class="order-date">Order Date</li>
+                            <li class="total-price">Total Price</li>
+                            <li class="product-quantity">Total Products</li>
+                        </ul>
+                    </div>
+                    <div data-orders="order-list-container" class="dashboard-tool-list-container">
+                        <ul data-orders="order-list" class="dashboard-tool-list order-list"></ul>
+                        <div class="list-overlay hide"></div>
+                    </div>
+                    <footer data-orders="footer" class="dashboard-tool-footer">
+                        <div class="displayed-products">
+                            <span class="amount-items">Number of list items could not be loaded</span>
+                        </div>
+                    </footer>
+                </div>
+
+            </div>
+
+        </main>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+- Git vcs
+- Responsiveness
+- Efficiency
+    - Loading time;
+    - Media files;
+- Style
+    - Accurate use of modern CSS properties?
+    - Consistency in selectors, using classes, properties or elements, mixed or not?
+- Folder structure
+- Code smell
+    - Readability
+    - Ghost code
+    - Where to call function from in general? Centralize to what degree? 
+    - Use classes for JS DOM or the data attributes (dataset)?
+    - Refactor
+    - Pure functions or not
+    - Consitency
+- Block element m... (BEM)
+- Web-components
+    - Hoe zit het met de classes.
+

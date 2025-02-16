@@ -1,0 +1,9 @@
+:root {
+    --clr-pri-light: #f7f8e5;
+    --clr-pri-dark: #001007;
+    --clr-pri-accent: #e2d1c3;
+    --clr-db-light: #00deea;
+    --clr-db-lighter: #00fffb;
+    --clr-db-medium: #052433;
+    --clr-db-dark: rgb(1, 18, 23);
+}

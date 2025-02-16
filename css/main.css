@@ -1,0 +1,165 @@
+/* ! FEATURES */
+/* TODO - Add button text shadow */
+/* TODO - Add logo / brand text shadow */
+/* TODO - Border radius for tilted squares */
+/* TODO - Add some polyon background contrasts to gender pages */
+/* TODO - Hover effect on breadcrumbs */
+/* TODO - Select menu dropdown breadcrumb items to access navigation */
+/* TODO - Add improved hover and click experience on buttons by appying padding */
+/* TODO - Add spacers where possible */
+
+/* ! FIXES */
+/* TODO - Fix window width: width should not exceed 100vw */
+/* TODO - Homepage: Fix responsive positioning of cubes - gap is glitching between 700px and 1200px; */
+/* TODO - Homepage: Change overlay to psuedo element to remove styling from DOM */
+/* TODO - Category cards animation only at first scroll */
+/* TODO - Women selection polygon at homepage does not completely respond to hover effect*/
+
+@import './base/resets.css';
+@import './base/fonts.css';
+@import './variables/variables.css';
+@import './base/globals.css';
+@import './base/typography.css';
+@import './sections/header.css';
+@import './sections/footer.css';
+@import './base/animations.css';
+
+.container {
+    width: 98.3vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section {
+    margin-bottom: 5rem;
+}
+
+.modal-backdrop {
+    width: 100vw;
+    height: 100vw;
+    background-color: black;
+}
+
+.modal-logIn,
+.modal-addProduct {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    z-index: 99999;
+    
+    .modal-logIn__content {
+        height: 20rem;
+        width: 22rem;
+    }
+    
+    .modal-addProduct__content {
+        height: 36rem;
+        padding: 1.5rem 1rem 2.5rem 1rem;
+        width: 25rem;
+    }
+    
+    .modal-logIn__content,
+    .modal-addProduct__content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+        background-color: white;
+        z-index: 99;
+        border-radius: 0.2rem;
+        
+        header {
+            position: relative;
+            width: 100%;
+            text-align: center;
+        }
+
+        .close-modal-btn {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            width: 2rem;
+            stroke: var(--clr-pri-dark);
+
+            svg {
+                pointer-events: none;
+            }
+        }
+
+        form {
+            height: 100%;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            font-size: var(--fs-h6);
+            gap: 1.5rem;
+
+            .form-control {
+                width: 100%;
+                display: grid;
+                grid-template-columns: 2fr 3fr;
+                padding-inline: 2rem;
+
+                input {
+                    border: none;
+                    border-bottom: 1px solid var(--clr-pri-dark);
+                    outline: none;
+
+                    &.warning {
+                        border: 1px solid red;
+                    }
+                }
+
+                select {
+                    
+                    &.warning {
+                        border: 1px solid red;
+                    }
+                }
+
+                .add-product-btn {
+                    grid-column: 1/-1;
+                    margin-top: 1rem;
+                    padding: 0.5rem 1rem;
+                    border-radius: var(--br-sm);
+                    background-color: #000;
+                    color: #fff;
+                }
+            }
+
+            .form-btns {
+                width: 100%;
+                display: flex;
+                justify-content: space-around;
+                background-color: #fff;
+                border-top: 2px solid var(--clr-pri-dark);
+                border-radius: 0.2rem;
+                
+                & > button {
+                    width: 50%;
+                    padding: 1rem;
+                    border-radius: 0.2rem;
+                    
+                    &:first-child {
+                        border-right: 2px solid black;
+                    }
+                }
+            }
+        }
+    }
+
+    &.hide {
+        display: none !important;
+    }
+    
+}

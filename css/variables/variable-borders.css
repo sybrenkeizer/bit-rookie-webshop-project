@@ -1,0 +1,5 @@
+:root {
+    --br-sm: 0.2rem;
+    --br-md: calc(var(--br-sm) * 1.5);
+    --br-lg: calc(var(--br-sm) * 3);
+}

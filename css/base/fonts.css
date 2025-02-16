@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Advent Pro';
+    src: url('../../assets/fonts/Advent_Pro/AdventPro-Italic-VariableFont_wdth\,wght.ttf') format('truetype');
+    src: url('../../assets/fonts/Advent_Pro/AdventPro-VariableFont_wdth\,wght.ttf') format('truetype');
+    font\-style: normal;
+}
+
+@font-face {
+    font-family: 'Bodoni Moda';
+    src: url('../../assets/fonts/Bodoni_Moda/BodoniModa-Italic-VariableFont_opsz\,wght.ttf') format('truetype');
+    src: url('../../assets/fonts/Bodoni_Moda/BodoniModa-VariableFont_opsz\,wght.ttf') format('truetype');
+    font-style: normal;
+}
