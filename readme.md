@@ -44,12 +44,12 @@ Zorah is een e-commerce website gemaakt voor een schoolproject. Hiermee heb ik g
 
 ## Installatie
 - Clone repository:
-  A) Clone de repository met het commando: git clone https://github.com/sybrenkeizer/bit-webshop-project.git
-  B) Navigeer naar de project directory met: cd bit-webrookie-frontend-project
+  A) Clone de repository met het commando: git clone https://github.com/sybrenkeizer/bit-rookie-webshop-project.git
+  B) Navigeer naar de project directory met: cd bit-rookie-webshop-project
   C) open "index.html" in een browser naar keuze
 - Bekijk online
   - De webshop is gehost op GitHub Pages en kan direct in de browser worden bekeken via:
-  https://sybrenkeizer.github.io/bit-webshop-project/index.html
+  https://sybrenkeizer.github.io/bit-rookie-webshop-project/index.html
 
 ## Gebruik
 - Start pagina: De bezoeker kan een keuze maken naar gender;
