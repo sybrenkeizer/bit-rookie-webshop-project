@@ -1,7 +1,7 @@
 import { storeInLS, getFromLS } from "../utilities/localStorage.js";
 
 export default async function storePageHierarchyDataInLS() {
-    const url = './json/pageHierarchy.json';
+    const url = '../json/pageHierarchy.json';
     return new Promise((resolve, reject) => {
         if (!getFromLS('pageHierarchyData')) {
             fetch(url)
