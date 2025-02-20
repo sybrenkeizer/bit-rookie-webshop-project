@@ -10,7 +10,6 @@ import { navigateToCategoryPage, navigateToHomePage } from '../navigation/naviga
 export default function loadGenderView() {
     if (!getFromLS("selectionStates") || !getFromLS("selectionStates").genderState) {
         navigateToHomePage();
-        return;
     } else {
         storeSelectionStateInLS('categoryState', null);
         loadGenderHero();
