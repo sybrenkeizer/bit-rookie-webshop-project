@@ -2,8 +2,13 @@ import { loadProductItem } from "../components/productComponents.js";
 import toggleTabs from "../utilities/toggleTabs.js";
 import { getFromLS, getSelectionStateFromLS, storeCartItemInLS } from "../utilities/localStorage.js";
 import { displayAmountCartItemsInNav, showNavCartBtn } from "../components/cartComponents.js";
+import { navigateToHomePage } from "../navigation/navigate.js";
 
 export default function loadProductView() {
+    if (!getFromLS("selectionStates") || !getFromLS("selectionStates").productState) {
+        navigateToHomePage();
+        return;
+    }
     loadProductItem();
     toggleTabs(document.querySelectorAll('.product-info__secondary > .tab'));
     document.addEventListener('click', (event) => {

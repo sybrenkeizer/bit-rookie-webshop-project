@@ -18,11 +18,14 @@ import {
     filterOrderItems,
 } from "../components/dashboardComponents.js";
 import storeProductDataInLS from "../data/productData.js";
-import { removeFromLS } from "../utilities/localStorage.js";
+import { getFromLS, removeFromLS } from "../utilities/localStorage.js";
 import { navigateToHomePage } from "../navigation/navigate.js";
 import loadAddProductView from "./addProductView.js";
 
 export default function loadDashboardView() {
+    if (!getFromLS('productData')) {
+        storeProductDataInLS();
+    }
     removeInventoryItems();
     loadInventoryItems();
     loadOrderItems();

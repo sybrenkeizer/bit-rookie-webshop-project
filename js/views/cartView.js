@@ -18,7 +18,6 @@ import {
 } from "../utilities/localStorage.js";
 import { navigateToLastVisitedPage, navigateToHomePage } from "../navigation/navigate.js";
 
-// TODO - Refactoring needed here. Multiple action require the same data to be mutated.
 export default function loadCartPage() {
     loadCartItem();
     displaySubtotalCartItemsPrice();

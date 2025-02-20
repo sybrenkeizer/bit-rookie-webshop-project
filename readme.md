@@ -43,13 +43,14 @@ Zorah is een e-commerce website gemaakt voor een schoolproject. Hiermee heb ik g
   - Werken met ESlint;
 
 ## Installatie
-- Clone repository:
-  A) Clone de repository met het commando: git clone https://github.com/sybrenkeizer/bit-rookie-webshop-project.git
-  B) Navigeer naar de project directory met: cd bit-rookie-webshop-project
-  C) open "index.html" in een browser naar keuze
+- Draai op lokale webserver
+  A) Clone de repository met het commando: git clone https://github.com/sybrenkeizer/bit-rookie-webshop-project.git;
+  B) Navigeer naar de project directory: cd bit-rookie-webshop-project;
+  C) Start lokale webserver op poort 8000 met php: php -S localhost:8000;
+  D) Bekijk de website op een browser naar keuze via: http://localhost:8000/index.html;
 - Bekijk online
   - De webshop is gehost op GitHub Pages en kan direct in de browser worden bekeken via:
-  https://sybrenkeizer.github.io/bit-rookie-webshop-project/index.html
+  https://sybrenkeizer.github.io/bit-rookie-webshop-project/index.html;
 
 ## Gebruik
 - Start pagina: De bezoeker kan een keuze maken naar gender;
@@ -62,11 +63,16 @@ Zorah is een e-commerce website gemaakt voor een schoolproject. Hiermee heb ik g
 - Footer: Onderaan de meeste pagina's is een footer geplaatst. Deze komt in twee varianten, een smalle footer met links naar essentiële informatie voor de gebruiker, als wel een uitgebreide footer met contact details en links naar handige, maar niet noodzakelijke, informatie waar de gebruiker gemakkelijk naar navigeren kan. De links zijn vooralsnog inactief.
 
 ## Project management
-- User flow: https://www.figma.com/board/VM3ExvyDOib7N7vJntMQgP/User-flow-webshop---Front-end-rookie-project?node-id=0-1&t=APfR7ydhTo1R2K1F-1
-- Mind map: https://www.figma.com/board/3t630cnzFfDkqftwBBTcQ2/Mindmap-webshop---Front-end-rookie-project?t=APfR7ydhTo1R2K1F-1
-- Site map: https://www.figma.com/board/4yd3229hHoWvuOX4lqZm6j/Sitemap-webshop---Front-end-rookie-project?t=APfR7ydhTo1R2K1F-1
-- Wireframe: https://www.figma.com/design/5ydJZCeqaSxYc9YJYmuTnS/Wireframe-webshop---Front-end-rookie-project?t=APfR7ydhTo1R2K1F-1
-- Mockup: https://www.figma.com/design/fS74UT0LyHEGdP7ANSv6lT/Mockup-webshop---front-end-rookie-project?t=APfR7ydhTo1R2K1F-1
+- User flow:
+![alt text](./project-management/project-management-userflow.png)
+- Mind map: 
+![alt text](./project-management/project-management-mindmap.png)
+- Site map: 
+![alt text](./project-management/project-management-sitemap.png)
+- Wireframe:
+![alt text](./project-management/project-management-wireframe.png)
+- Mockup:
+![alt text](./project-management/project-management-mockup.png)
 
 ## Licentie
 Dit project is gelicenseerd onder de MIT-licentie. 
